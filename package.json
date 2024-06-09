@@ -8,8 +8,9 @@
     "dev": "nodemon --watch src --exec 'npx ts-node' src/server.ts",
     "test": "jest --watch --detectOpenHandles"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["marketplace", "fiverr", "service", "buyer", "hyperlocal", "local",
+"sellers", "business", "service providers", "local businesses", "local service providers"],
+  "author": "Adam Sanusi Babatunde",
   "license": "ISC",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
